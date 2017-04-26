@@ -2,5 +2,5 @@ package main
 
 func main() {
 	var i int
-	i = 111
+	i = 1
 }
