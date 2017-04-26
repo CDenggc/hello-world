@@ -2,5 +2,5 @@ package main
 
 func main() {
 	var i int
-	i = 50
+	i = 1000
 }
